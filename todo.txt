@@ -1,0 +1,3 @@
+1. 学会 git add / commit / log
+2. 学会配 user.name
+3. 学会用 UTF-8 保存中文文件
